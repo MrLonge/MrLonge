@@ -1,5 +1,5 @@
 
-# Hi, I'm BeamzDIPboy on Github.My official name is Longe Joseph Wayas. I am enthusiastic about drawing insights that can help small businesses grow into big businesses. I am especially interested in finance.
+# Hi, I'm MrLonge on Github.My official name is Longe Joseph Wayas. I am enthusiastic about drawing insights that can help small businesses grow into big businesses. I am especially interested in finance.
 
 I am a full stack Data scientist trainee.
 
